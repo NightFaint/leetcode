@@ -9,6 +9,7 @@ class Solution:
         :type n: int
         :rtype: List[List[int]]
         """
+        #每个矩阵都可以分解成多个正方形外框，下面的while循环就是每次给正方形外框赋值，直到全部赋值完或只剩下最中间的一个数字
         origin = n
         #初始化矩阵
         lst=[]
