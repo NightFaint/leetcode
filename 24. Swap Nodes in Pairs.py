@@ -4,10 +4,13 @@ __date__ = '2018/5/6 13:25'
 
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+#extra memory:4=O(1)
+#complexity:O(n)
 
 class Solution:
     def swapPairs(self, head):
