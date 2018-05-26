@@ -13,9 +13,10 @@ class Solution:
             else:
                 if len(stack) >1:#len(stack)>1，说明前面的序列至少有一个"("待组合
                     
-                    #c不是"("，便只能是")"，")"与前面序列的"("组合，stack长度减一
+                    #c不是"("，便只能是")"，")"与前面序列的"("组合，stack长度减一，
                     val=stack.pop()
-                    stack[-1]+=val+2
+                    stack[-1]+=val+2#此时stacl[-1]表示前面已匹配完(的序列的长度,val表示前面序列匹配一部分，但仍有待匹配的长度，如:()(()),当c=最后一个)时，
+                    # stack[-1]表示第一个()长度，2；val表示(()长度，2。
                     #更新longest
                     longest=max(longest,stack[-1])
                     
