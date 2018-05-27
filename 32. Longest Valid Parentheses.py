@@ -26,6 +26,33 @@ class Solution:
                 else:
                     stack=[0]
         return longest
-                    
+
+
+#another solution
+class Solution:
+    def longestValidParentheses(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        n = len(s)
+        if n < 2:
+            return 0
+        stack = []
+        start = -1  # (开始的位置
+        longest = 0
+        for i in range(n):
+            if s[i] == '(':
+                stack.append(i)
+            elif stack == []:
+                start = i
+            else:
+                stack.pop()
+                if stack == []:
+                    longest = max(longest, i - start)
+                else:
+                    longest = max(longest, i - stack[-1])  # 如果堆非空，即仍有(待匹配，不能从(开始的地方计数，应从最后一个待匹配的(的位置开始计数
+        return longest
+
         
         
