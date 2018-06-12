@@ -35,7 +35,7 @@ class Solution:
                         end-=1
         return res
 
-#另一种解法，也是O(n)
+#另一种解法，也是O(n**2)
 class Solution:
     def threeSum(self, nums):
         """
