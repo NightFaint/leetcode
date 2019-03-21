@@ -22,8 +22,14 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 16. [数值的整数次方](SwordOffer/ExponentOfInt_16.java)
 17. [打印从1到最大的n位十进制数](SwordOffer/Print1ToMaxNDigits_17.java)
 18. [删除链表的节点](SwordOffer/DeleteNode_18_.java)
+
     [删除链表的重复节点](SwordOffer/DeleteDuplicatedNode_18.java)
 19. [正则表达式匹配](SwordOffer/MatchExp_19.java)
 20. [表示数值的字符串](SwordOffer/IsNumeric_20.java)
+21. [调整数组的顺序使奇数位于偶数前面](SwordOffer/ReOrderOddEven_21.java)
+22. [链表中倒数第k个结点](SwordOffer/FindKthToTailInLinkedList_22.java)
+23. [链表中环的入口结点](SwordOffer/EntryNodeOfLoop_23.java)
+24. [反转链表](SwordOffer/ReverseLIst_24.java)
+25. [合并两个有序链表](SwordOffer/MergeList_25.java)
 
 
