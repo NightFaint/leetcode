@@ -1,4 +1,4 @@
-import ReverseLIst_24.ListNode;
+
 
 public class MergeList_25 {
 	private class ListNode{
@@ -11,7 +11,7 @@ public class MergeList_25 {
 	}
 	
 	/*
-	 * »ù±¾°´ÕÕmergesortµÄË¼Ïë°ÑÁ½¸öÁ´±íºÏ²¢
+	 * åŸºæœ¬æŒ‰ç…§mergesortçš„æ€æƒ³æŠŠä¸¤ä¸ªé“¾è¡¨åˆå¹¶
 	 */
 	public ListNode  merge(ListNode p1,ListNode p2) {
 		if (p1==null || p2 == null) {
