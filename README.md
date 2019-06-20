@@ -1,7 +1,7 @@
-# leetcode
-之前陆陆续续地在leetcode上刷了一些题目，有些题目回看已经忘了当初解体的思路，现在便开始记录一下每次解体的思路吧，方便复习。
 
-# 剑指offer
+之前陆陆续续地在leetcode以及剑指offer上刷了一些题目，有些题目回看已经忘了当初解体的思路，现在便开始记录一下每次解体的思路吧，方便复习。
+
+## 剑指offer
 SwordOffer文件夹是剑指offer书上题目Java版本的解答
 
 3. [数组中的重复数字](SwordOffer/DuplicatedNum_3.java)
@@ -32,4 +32,7 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 24. [反转链表](SwordOffer/ReverseLIst_24.java)
 25. [合并两个有序链表](SwordOffer/MergeList_25.java)
 
-
+## LeetCode
+832. [Flipping an Image](java/L832_Flipping_an_Image.java)
+905. [Sort Array By Parity](java/L905_Sort_Array_By_Parity.java)
+977. [Squares of a Sorted Array](java/L977_Squares_of_a_Sorted_Array.java)
