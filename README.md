@@ -33,8 +33,17 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 25. [合并两个有序链表](SwordOffer/MergeList_25.java)
 
 ## LeetCode
+38. [Count_and_Say](java/Count_and_Say_38.java)
+40. [Combination Sum II](java/L40_CombinationSumII.java)
+70. [Climbing Stairs](java/Climbing_Stairs_70.java)
+88. [Merge_Sorted_Array](java/L88_Merge_Sorted_Array.java)
+94. [Binary_Tree_Inorder_Traversal](java/Binary_Tree_Inorder_Traversal_94.java)
+222. [Count_Complete_Tree_Nodes](java/Count_Complete_Tree_Nodes222.java)
+413. [Arithmetic_Slices](java/Arithmetic_Slices413.java)
 561. [Array_Partition_1](java/L561_ArrayPartitionI.java)
 832. [Flipping an Image](java/L832_Flipping_an_Image.java)
+868. [Binary_Gap](java/Binary_Gap_868.java)
+894. [All_Possible_Full_Binary_Trees](java/All_Possible_Full_Binary_Trees894.java)
 905. [Sort Array By Parity](java/L905_Sort_Array_By_Parity.java)
 922. [Sort Array By Parity II](java/L922_Sort_Array_By_Parity_II.java)
 950. [Reveal_Cards_In_Increasing_Order](java/L950_Reveal_Cards_In_Increasing_Order.java)
