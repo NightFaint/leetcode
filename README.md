@@ -66,6 +66,8 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 454.[4SumII](java/L454_4SumII.java)
 * 509.[Fibonacci_Number](java/L509_Fibonacci_Number.java)
 * 561.[Array_Partition_1](java/L561_ArrayPartitionI.java)
+* 581.[Shortest_Unsorted_Continuous_Subarray](java/L581_Shortest_Unsorted_Continuous_Subarray.java)
+* 617.[Merge_Two_Binary_Trees](java/L617_Merge_Two_Binary_Trees.java)
 * 647.[Palindromic_Substrings](java/Palindromic_Substrings647.java)
 * 712.[Minimum_ASCII_Delete_Sum_for_Two_Strings](java/Minimum_ASCII_Delete_Sum_for_Two_Strings712.java)
 * 746.[Min_Cost_Climbing_Stairs](java/Min_Cost_Climbing_Stairs_746.java)

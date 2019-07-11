@@ -41,4 +41,8 @@ public class L63_Unique_PathsII {
         }
         return obstacleGrid[m - 1][n - 1];
     }
+
+    public static void main(String[] args) {
+
+    }
 }
