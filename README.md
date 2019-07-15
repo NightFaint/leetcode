@@ -91,4 +91,5 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 999.[Available_Captures_for_Rook](java/L999_Available_Captures_for_Rook.java)
 * 1025.[Divisor_Game](java/L1025_Divisor_Game.java)
 * 1051.[Height_Checker](java/L1051_Height_Checker.java)
+* 1122.[Relative_Sort_Array](java/L1122_Relative_Sort_Array.java)
 * 1123.[Lowest_Common_Ancestor_of_Deepest_Leaves](java/L1123_Lowest_Common_Ancestor_of_Deepest_Leaves.java)
