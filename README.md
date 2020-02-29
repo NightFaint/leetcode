@@ -54,6 +54,8 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 91.[Decode_Ways](java/L91_Decode_Ways.java)
 * 94.[Binary_Tree_Inorder_Traversal](java/Binary_Tree_Inorder_Traversal_94.java)
 * 104.[MaximumDepth_of_Binary_Tree](java/L104_MaximumDepth_of_Binary_Tree.java)
+* 118.[L118PascalsTriangle](java/L118PascalsTriangle.java)
+* 119.[L119PascalsTriangleII](java/L119PascalsTriangleII.java)
 * 136.[Single_Number](java/L136_Single_Number.java)
 * 189.[RotateArray](java/L189RotateArray.java)
 * 198.[House_Robber](java/House_Robber_198.java)
