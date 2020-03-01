@@ -112,3 +112,4 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 1122.[Relative_Sort_Array](java/L1122_Relative_Sort_Array.java)
 * 1123.[Lowest_Common_Ancestor_of_Deepest_Leaves](java/L1123_Lowest_Common_Ancestor_of_Deepest_Leaves.java)
 * 1169.[L1169_InvalidTransactions](java/L1169_InvalidTransactions.java)
+* 1365.[L1365HowManyNumbersAreSmallerThantheCurrentNumber](java/L1365HowManyNumbersAreSmallerThantheCurrentNumber.java)
