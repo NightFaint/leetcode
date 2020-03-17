@@ -52,6 +52,7 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 66.[PLUS_ONE](java/PLUS_ONE_66.java)
 * 70.[Climbing Stairs](java/Climbing_Stairs_70.java)
 * 75.[L75SortColors](java/L75SortColors.java)
+* 78.[L78Subsets](java/L78Subsets.java)
 * 88.[Merge_Sorted_Array](java/L88_Merge_Sorted_Array.java)
 * 91.[Decode_Ways](java/L91_Decode_Ways.java)
 * 94.[Binary_Tree_Inorder_Traversal](java/Binary_Tree_Inorder_Traversal_94.java)
