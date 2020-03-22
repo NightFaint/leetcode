@@ -42,6 +42,7 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 35.[Search_Insert_Position](java/Search_Insert_Position_35.java)
 * 38.[Count_and_Say](java/Count_and_Say_38.java)
 * 40.[Combination Sum II](java/L40_CombinationSumII.java)
+* 43.[L43MultiplyStrings](java/L43MultiplyStrings.java)
 * 46.[Permutations](java/L46_Permutations.java)
 * 48.[Rotate Image](java/L48_Rotate_Image.java)
 * 53.[Maximum_Subarray](java/Maximum_Subarray53.java)
