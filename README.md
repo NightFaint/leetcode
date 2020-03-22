@@ -51,6 +51,7 @@ SwordOffer文件夹是剑指offer书上题目Java版本的解答
 * 62.[Unique_Paths](java/L62_Unique_Paths.java)
 * 63.[Unique_Paths2](java/L63_Unique_PathsII.java)
 * 66.[PLUS_ONE](java/PLUS_ONE_66.java)
+* 67.[AddBinary](java/L67AddBinary.java)
 * 70.[Climbing Stairs](java/Climbing_Stairs_70.java)
 * 75.[L75SortColors](java/L75SortColors.java)
 * 78.[L78Subsets](java/L78Subsets.java)
